@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robert Kovacs Kali. I'm currently sudying to be a Computer Science Engineer. 
+I'm currently sudying to be a Computer Science Engineer. 
 
 
 <!--
