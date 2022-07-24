@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Robert Kovacs Kali. I'm currently sudying to be a Computer Science Engineer. 
+
+
 <!--
 **kovacskalirobert/kovacskalirobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
