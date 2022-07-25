@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently sudying to be a Computer Science Engineer. 
+I'm currently sudying to be a Computer Science Engineer. I'm constantly improving myself.
 
 
 <!--
