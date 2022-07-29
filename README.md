@@ -1,5 +1,5 @@
 
-<img src="cat.jpg" width="700" height="300" title="Background"/>
+<img src="cat.jpg" width="920" height="729" title="Background"/>
 
 
 
