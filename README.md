@@ -1,3 +1,8 @@
+
+<img src="cat.jpg" width="700" height="300" title="Background"/>
+
+
+
 ### Hi there 👋
 
 I'm currently sudying to be a Computer Science Engineer. I'm constantly improving myself.
