@@ -37,7 +37,10 @@ I'm also interested in these:
 
 > good
 
-| Labview  | Matlab  | Matplotlib  | Numpy  |
+
+| Labview  	| Matlab  	| Matplotlib  	|
+|---	|---	|---	|
+| Numpy  	| Pandas  	| Git  	|
 
 
 ## Contact me
