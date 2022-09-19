@@ -8,12 +8,12 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 
 I'm also interested in these:
 
-<p align="center>
 
-  | DevOps  | Backend developer  | Business analytics  | IT  |
-  |---|---|---|---|
 
-</p>
+| DevOps  | Backend developer  | Business analytics  | IT  |
+|---|---|---|---|
+
+
 
 ## Work experience
 
