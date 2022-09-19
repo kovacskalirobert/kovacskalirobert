@@ -2,9 +2,9 @@
 
 ## About me
 
-- I'm a passionate self-taught python developer from Hungary.
+- I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> developer from Hungary.
 
-- I want to become a data scientist.
+- I want to become a <span style="color:#F71D4F">**Data Scientist**</span>.
 
 ## Work experience
 
@@ -12,8 +12,8 @@
 
 ## Education
 
-> <span style="color:#F71D4F">**University of Szeged**</span>
->> <span style="color:#F71D4F">Computer Science Engineering (2019 - 2023)</span>
+> **University of Szeged**
+>> Computer Science Engineering (2019 - 2023)
 
 ## Language and tools
 
@@ -35,7 +35,7 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
 
-## Contact me
+## <span style="color:#F71D4F">Contact me</span>
 
 ## Portfolio
 
