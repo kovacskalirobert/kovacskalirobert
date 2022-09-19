@@ -25,7 +25,7 @@ I'm also interested in these:
 
 > excellent
 
-<p align="">
+<p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">   <img src="resources/animation_500_l892c69h.gif" width="100">  <img src="resources/animation_500_l892priv.gif" width="100"> <img src="resources/animation_500_l8937iqc.gif" width="100"> <img src="resources/animation_500_l893owrz.gif" width="100"> <img src="resources/54425-html-5.gif" width="100">
 
 
