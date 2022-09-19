@@ -2,7 +2,7 @@
 
 ## About me
 
-- I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> developer from Hungary.
+I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> developer from Hungary.
 
 - I want to become a <span style="color:#F71D4F">**Data Scientist**</span>.
 
