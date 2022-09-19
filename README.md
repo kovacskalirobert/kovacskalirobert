@@ -42,3 +42,11 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 - my website: [kovacskalirobert.github.io](https://kovacskalirobert.github.io/)
 
 - My open-source projects you can find in my public repos.
+
+I'm a night 🦉
+
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
+🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌃 Evening    128 commits    █████████░░░░░░░░░░░░░░░░   37.65%
+🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
+
