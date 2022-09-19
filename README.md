@@ -12,8 +12,8 @@
 
 ## Education
 
-> **University of Szeged**
->> Computer Science Engineering (2019 - 2023)
+> <span style="color:#F71D4F">**University of Szeged**</span>
+>> <span style="color:#F71D4F">Computer Science Engineering (2019 - 2023)</span>
 
 ## Language and tools
 
