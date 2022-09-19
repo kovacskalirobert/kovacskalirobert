@@ -6,6 +6,12 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 
 - I want to become a <span style="color:#F71D4F">**Data Scientist**</span>.
 
+I'm also interested in these:
+
+| DevOps  | Backend developer  | Business analytics  | IT  |
+|---|---|---|---|
+
+
 ## Work experience
 
 - Call me, and this section will not remain empty.
@@ -17,9 +23,15 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 
 ## Language and tools
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+> excellent
+
+<p align="">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">   <img src="resources/animation_500_l892c69h.gif" width="100">  <img src="resources/animation_500_l892priv.gif" width="100"> <img src="resources/animation_500_l8937iqc.gif" width="100"> <img src="resources/animation_500_l893owrz.gif" width="100"> <img src="resources/54425-html-5.gif" width="100">
+
+
 </p>
+
+> good
 
 ## Contact me
 
@@ -33,12 +45,11 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
   <a href="https://www.facebook.com/profile.php?id=100008946247651" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
+  <a href="https://kovacskalirobert.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/mywebsite-%231877F2.svg?&style=for-the-badge&logo=kovacs&logoColor=white&color=071A2C" alt="kovacskalirobert"/>
+  </a>
 </p>
 
-## Portfolio
-
-- my website: [kovacskalirobert.github.io](https://kovacskalirobert.github.io/)
+## Other things
 
 - My open-source projects you can find in my public repos.
-
-
