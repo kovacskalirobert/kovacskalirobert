@@ -18,21 +18,7 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 ## Language and tools
 
 <p align="center">
-
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 ## <span style="color:#F71D4F">Contact me</span>
@@ -43,13 +29,4 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 
 - My open-source projects you can find in my public repos.
 
-
-
-🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
-
-🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-🌃 Evening    128 commits    █████████░░░░░░░░░░░░░░░░   37.65%
-
-🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
 
