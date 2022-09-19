@@ -12,7 +12,7 @@ I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> devel
 
 ## Education
 
-> ###**University of Szeged**
+> ### **University of Szeged**
 >> Computer Science Engineering (2019 - 2023)
 
 ## Language and tools
