@@ -4,14 +4,13 @@
 
 I'm a passionate self-taught <span style="color:#F71D4F">**Python**</span> developer from Hungary.
 
-- I want to become a <span style="color:#F71D4F">**Data Scientist**</span>.
 
 I'm also interested in these:
 
 
 
-| DevOps  | Backend developer  | Business analytics  | IT  |
-|---|---|---|---|
+| DevOps  | Backend developer  | Business analytics  | IT  | Data Science |
+|---|---|---|---| --- |
 
 
 
