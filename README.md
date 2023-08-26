@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/robertkovacskali">
-    <button style="color:#4287f5; background-color: #09090a">Contact me</button>
+    <button style="color:#ffffff; background-color: #008CBA; font-size: 24px; padding: 20px 10px; border-radius: 4px; border: 2px solid #008CBA; ">Contact me</button>
   </a>
   
 
