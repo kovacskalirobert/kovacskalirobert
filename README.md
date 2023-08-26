@@ -4,9 +4,8 @@
 ## Contact me
 
 <p align="center">
-  <a href="https://linktr.ee/robertkovacskali" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="linktr.ee"/>
-  </a>
+  https://linktr.ee/robertkovacskali
+
 </p>
 
 ## Other things
