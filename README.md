@@ -4,7 +4,10 @@
 ## Contact me
 
 <p align="center">
-  https://linktr.ee/robertkovacskali
+  <a href="https://linktr.ee/robertkovacskali">
+    <button>Contact me</button>
+  </a>
+  
 
 </p>
 
