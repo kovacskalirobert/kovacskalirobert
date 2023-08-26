@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/robertkovacskali">
-    <button>Contact me</button>
+    <button style="color:#4287f5; background-color: #09090a">Contact me</button>
   </a>
   
 
